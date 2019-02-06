@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1549488247 source:c:\users\cédric\desktop\cours\logiciels\code blocks\yoann\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	"windows.h"
+
+1549488001 c:\users\cédric\desktop\cours\logiciels\code blocks\yoann\header.h
+
+1549489131 source:c:\users\cédric\desktop\cours\logiciels\code blocks\yoann\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1549492193 source:c:\users\yoann\desktop\yoann\yoann\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1549492284 c:\users\yoann\desktop\yoann\yoann\header.h
+
+1549492376 source:c:\users\yoann\desktop\yoann\yoann\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	"windows.h"
+
+1549492378 source:c:\users\yoann\desktop\yoann\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+	"windows.h"
+
+1549492286 c:\users\yoann\desktop\yoann\header.h
+
